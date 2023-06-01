@@ -112,6 +112,5 @@ Getting in touch
 	
 
 ## 🐛Github Magic Game
-<p align="center">
-  <img src="https://github.com/JansherMughal/JansherMughal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+  ![Snake animation](https://github.com/JansherMughal/JansherMughal/blob/output/github-contribution-grid-snake.svg)
+
