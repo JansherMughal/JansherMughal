@@ -1,117 +1,85 @@
- <div align="center">
-    <h1> Hi there, I'm Jasnsher Mughal👋<a href="#"></h1>
-  </div>
-<p align="center">
-<a href="https://github.com/JansherMughal"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Expert;Data+Science+Enthusiast;Python+Developer&center=true&width=500&height=50"></a>
-	
-### Welcome to My GitHub Profile!
- 
-I work as a full-time freelancer. In my spare time I do open-sourcing (normally it is about 1-2 hours in the morning before the work).
+<div align="center">
 
-Most of my open-source 🚀 projects below 👇🏻 are focused on one thing - to help people learn 📚. You may use these projects to learn about algorithms in Python and get prepared for technical interviews, or to learn Python syntax and start experimenting with machine learning algorithms and mathematics behind them, etc.
+# Hi, I'm Jansher Mughal 👋
 
-There are also other projects that I've developed for fun but that you might find useful.
-
-Getting in touch
-
-
-<h2>Tech Stack</h2>
-
-<table width="100" align='justify-center'>
-<tr>
-
-  <td align='center' width="200">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80">
-    </td>
-  <td align='center' width="200">
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="100">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/JansherMughal/JansherMughal/assets/58034260/342a1127-c990-4712-b1b6-87cffcb91024" width="100">
-    </td>
-
- <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/27a7c39c-6c5e-4cec-9110-0de89ebd9d05" width="150%">
-    </td>
- <td align='center'  width="200">
-        <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" width="100">
-    </td>
-	
-</tr>
- <tr>
-   
-  
-<td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/9042153c-74b1-407a-94d9-6e5657b3044c" >
-    </td>
-	 <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/e99ac296-f64c-479c-bf6a-1958c2713e9b" width="100%">
-    </td>
-  <td align='center'  width="200">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-<td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/64937b04-5c3a-4a46-b3f1-2c2375a27725" >
-    </td>
-	  
-  <td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/30d22378-8123-4eea-9a9d-1bfc295a2583" >
-    </td>
-	
-
-</tr>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="100">
-    </td>
-    <td align='center' width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="100">
-    </td>
-  
- <td align='center'  width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="100">
-    </td>
-	
- <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/afaefa9d-951b-429a-9f3d-cd522ff08048" width="100">
-    </td>
-	 <td align='center' width="200">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
- 
-</tr>
-    
-
-  
-	
-</table>
-  
- 
-<p width="100" align='center'>
-<a href="https://www.linkedin.com/in/jansher-mughal/"><img src="https://img.shields.io/badge/-Jansher%20Mughal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/janshermughal/"><img src="https://img.shields.io/badge/-Jansher%20Mughal-white?style=flat&logo=Kaggle&logoWidth=40&logoColor=black" /></a>
-<a href="mailto:janmughal@students.uit.edu"><img src="https://img.shields.io/badge/-janmughal@students.uit.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://Jansher-Mughal.web.app/"><img src="https://img.shields.io/badge/-/JansherMughal-e8b519?style=flat&logo=portfolio&logoColor=green"/></a>
- </p>
- 
-<br>
-
- 
- <h2>GitHub Analytics
- </h2>
-
-<p align="center">
 <a href="https://github.com/JansherMughal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JansherMughal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JansherMughal&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;MLOps+%26+Cloud+Infrastructure;LLMs+%7C+Computer+Vision+%7C+AWS" alt="Typing SVG" />
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=JansherMughal&show_icons=true&locale=en&layout=demo&theme=algolia" />
-</p>
-</p>
-<br>
-	
 
-## 🐛Github Magic Game
-<p align="center">
-  <img src="https://github.com/JansherMughal/JansherMughal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jansher%20Mughal-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jansher-mughal/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Jansher%20Mughal-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/janshermughal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-JansherMughal-e8b519?style=flat&logo=google-chrome&logoColor=white)](https://Jansher-Mughal.web.app/)
+[![Email](https://img.shields.io/badge/Email-janmughal%40students.uit.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:janmughal@students.uit.edu)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm an **AI/ML Engineer & MLOps practitioner** with hands-on experience designing and deploying end-to-end machine learning systems at scale. I work at **Folio3**, where I focus on:
+
+- 🚀 Building and maintaining **cloud-native ML infrastructure** on AWS (ECS, Fargate, Terraform)
+- 🤖 Developing **LLM-powered applications** using RAG architectures and modern AI tooling
+- 👁️ Engineering **Computer Vision pipelines** for real-world sports and video analysis
+- 🔁 Automating **MLOps workflows** — from CI/CD to model serving and observability
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### 👁️ Computer Vision
+![RT-DETR](https://img.shields.io/badge/RT--DETR-Object%20Detection-blue?style=flat)
+![ByteTrack](https://img.shields.io/badge/ByteTrack-Multi--Object%20Tracking-blueviolet?style=flat)
+![ParseQ](https://img.shields.io/badge/ParseQ-OCR-green?style=flat)
+![K-means](https://img.shields.io/badge/K--means-Clustering-orange?style=flat)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS%20%2F%20SQS-FF4F8B?style=flat&logo=amazon-sns&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white)
+
+### ⚙️ MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/JansherMughal">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JansherMughal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JansherMughal&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</a>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=JansherMughal&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🐛 GitHub Magic Game
+
+<div align="center">
+  <img src="https://github.com/JansherMughal/JansherMughal/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</div>
